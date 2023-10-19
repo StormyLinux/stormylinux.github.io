@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,Q as r}from"./chunks/framework.1169fbc9.js";const u=JSON.parse('{"title":"Workspaces","description":"","frontmatter":{},"headers":[],"relativePath":"workspaces.md","filePath":"workspaces.md"}'),a={name:"workspaces.md"},s=r("",13),c=[s];function i(d,n,p,l,h,g){return t(),o("div",null,c)}const W=e(a,[["render",i]]);export{u as __pageData,W as default};
