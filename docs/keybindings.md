@@ -60,7 +60,7 @@
 | `mod` + `b`                       | Thorium                            |
 | `mod` + `control` + `b`           | Brave                              |
 | `mod` + `s`                       | Stacer                             |
-| `mod` + `Ctrl` + `c`              | Qtile Configuration File           |
+| `mod` + `Ctrl` + `c`              | Qtile Configuration File(Sublime)  |
 | `mod` + `o`                       | Obsidian                           |
 | `mod` + `l`                       | Lunacy                             |
 | `mod` + `shift` + `s`             | Settings(Cinnamon)                 |

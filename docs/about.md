@@ -2,7 +2,7 @@
 
 <img src="/stormy-profile.png" width="40%" />
 
-Welcome to the Stormy Linux.
+Welcome to Stormy Linux.
 
 </div>
 
