@@ -1,4 +1,4 @@
-# Dotfiles
+# v1.0 Dotfiles
 
 ## Installing the Dotfiles
 

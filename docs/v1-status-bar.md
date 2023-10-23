@@ -1,6 +1,6 @@
-# Status Bar
+# v1.0 Status Bar
 
-## Stormy Linux Status Bar
+## Stormy Linux v1.0 Status Bar
 
 The status bar used by **Stormy Linux** the default bar of Qtile. All icons are being imported from the default collection of Qtile icons. Although, recently... **Stormy Linux** has been leveraging the "Qtile Extras" package, which includes extra modules and scripts that can be used to extend Qtile.
 

@@ -5,7 +5,7 @@
 Workspaces are displayed on the top left corner of the default Qtile bar next to the **Stormy Linux** logo. There are currently **14 workspaces** available by default. Workspaces are numbered from **1 to 14** with their icons.
 
 - Workspace Home: **Default** (Optional workspace for your apps)
-- Workspace Pro: **VIM** (Where you can do all your programming in VIM)
+- Workspace Vim: **VIM** (Where you can do all your programming in VIM)
 - Workspace 1: **VSCode** (Any other IDE or text editor will do)
 - Workspace 2: **Browser**(Firefox, Brave, Chrome, etc.)
 - Workspace 3: **Development Server**(NPM, PNPM or BUN server)
@@ -28,7 +28,7 @@ Active workspaces have a green highlighted icon when an application is active in
 **Inactive**
 
 These are the workspaces with no activity, these are the icons that have a dark gray accent where there are no active applications.
-
+<!-- 
 ## Auto Assign Applications
 
 A selected few applications have been chosen to be auto-assigned to specific workspaces. As the workspaces' icons indicates an icon that corresponds with specifc applications, these applications will automatically open in their selected workspaces.
@@ -50,4 +50,4 @@ You can find the applications below that have been configured to open on specifi
 | Workspace 9            | `Obsidian`, `Notion`                    |
 | Workspace 10           | `Thunderbird`                           |
 | Workspace 11           | `System Settings`                       |
-| Workspace 12           | `PPSSPP`, `Wine`, `PlayOnLinux`         |
+| Workspace 12           | `PPSSPP`, `Wine`, `PlayOnLinux`         | -->

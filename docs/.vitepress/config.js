@@ -13,10 +13,13 @@ export default {
       { text: "Contact", link: "/contact" },
       {
         // Dropdown Menu
-        text: "Changelog",
+        text: "Versions",
         items: [
           { text: "v1.0", link: "/stormylinux/v1" },
-          { text: "v2.0", link: "/stormylinux/v2" },
+          // { text: "Lazy Edition", link: "/stormylinux/lazy-edition" },
+          { text: "Developer Edition", link: "/stormylinux/developer-edition" },
+          { text: "Professional Edition", link: "/stormylinux/professional-edition" },
+          // { text: "Premium Edition", link: "/stormylinux/premium-edition" },
         ],
       },
     ],
@@ -45,24 +48,18 @@ export default {
           { text: "Installing Qtile", link: "/install-qtile" },
           { text: "Required Applications", link: "/required-applications" },
           { text: "Installing Stormy Linux", link: "/installing-stormy-linux" },
-          { text: "Dotfiles", link: "/dotfiles" },
+          { text: "v1.0 Dotfiles", link: "/v1-dotfiles" },
           { text: "Configuration", link: "/configuration" },
           { text: "Debian 12 Stable", link: "/debian-12-stable" },
         ],
       },
       {
-        text: "Using Stormy Linux",
+        text: "v1.0",
         collapsible: true,
         items: [
-          { text: "Status Bar", link: "/status-bar" },
-          { text: "Workspaces", link: "/workspaces" },
+          { text: "Status Bar", link: "/v1-status-bar" },
+          { text: "Workspaces", link: "/v1-workspaces" },
           { text: "Essentials", link: "/essentials" },
-        ],
-      },
-      {
-        text: "Shortcuts",
-        collapsible: true,
-        items: [
           { text: "Keybindings", link: "/keybindings" },
         ],
       },

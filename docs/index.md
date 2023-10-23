@@ -68,11 +68,26 @@ head:
 
 <!-- Custom home layout -->
 <div class="custom-layout">
-  <h1>Stormy Linux</h1>
-  <p>After logging into Stormy Linux you will be greeted with a screen like this.</p>
+<h1>✨</h1>
+  <h1>Stormy Linux v1.0</h1>
+  <p>After logging into Stormy Linux v1.0, you will be greeted with a screen like this.</p>
 <div align="center">
 
 <img src="/stormylinux-home.png" />
+
+</div>
+  <!-- <a href="https://github.com/stormylinux/alpha-dotfiles" target="_blank" class="btn">Alpha Dotfiles</a> -->
+</div>
+
+
+<!-- Custom home layout -->
+<div class="custom-layout">
+  <h1>🤓</h1>
+  <h1>Stormy Linux Developer Edition</h1>
+  <p>A sneak peek at Stormy Linux Developer Edition, a development focused work environment for a boost in workflow, productivity and speed.</p>
+<div align="center">
+
+<img src="/developer-edition.png" />
 
 </div>
   <!-- <a href="https://github.com/stormylinux/alpha-dotfiles" target="_blank" class="btn">Alpha Dotfiles</a> -->
